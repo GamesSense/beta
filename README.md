@@ -1,4 +1,5 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+https://gamesense.cloud
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+<img width="876" alt="image" src="https://github.com/gamesense-cloud/demo-repository/assets/65768277/cffb126c-6e4b-4923-a524-ae85766bb9c5">
+![image](https://github.com/gamesense-cloud/demo-repository/assets/65768277/deb3ffd8-a731-45ad-ba37-33ab8e45a6c4)
+
